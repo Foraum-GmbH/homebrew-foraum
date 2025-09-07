@@ -1,0 +1,5 @@
+# Ignore macOS and Homebrew files
+
+.DS_Store
+*.swp
+*.swo
