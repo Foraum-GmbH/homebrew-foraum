@@ -1,4 +1,4 @@
-# Homebrew Tap for Foraум GmbH
+# Homebrew Tap for Foraum GmbH
 
 This repository provides Homebrew casks for applications developed by Foraум GmbH.
 Popular casks may eventually be submitted to the official Homebrew Cask repository.
